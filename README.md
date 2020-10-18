@@ -121,7 +121,7 @@ Enter the code when prompted:
 
 ![6](static/images/6.png)
 
-**Congratulations:**
+**Congratulations!!**
 
 ![7](static/images/7.png)
 

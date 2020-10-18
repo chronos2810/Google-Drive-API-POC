@@ -17,7 +17,7 @@
 
 ## Clone this repo
 
-    git clone https://github.com/cronos2810/drive-api.git
+    git clone https://github.com/cronos2810/Google-Drive-API-POC.git
     cd drive-api
 
 ## References
